@@ -4,7 +4,7 @@
 All the SQL queries I used in this project are available here:
 👉 project_sql folder
 
-🔍 SQL queries? Check them out here: [Project folder](/project_SQL/)
+🔍 SQL queries? Check them out here: [Project folder](/Project/)
 
 # Background
 I built this project to answer a personal question:
