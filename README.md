@@ -2,9 +2,9 @@
 📊 The data analytics job market is growing fast, but navigating it isn’t always simple. To understand where real opportunities lie, I conducted my own analysis of the SQL job market—focusing on identifying 💰high-paying roles, skills that matter, and the perfect skill combinations that create strong value for aspiring analysts.
 
 All the SQL queries I used in this project are available here:
-👉 project_sql folder
+👉 Project folder
 
-🔍 SQL queries? Check them out here: [Project folder](/project_SQL/)
+🔍 SQL queries? Check them out here: [Project folder](/Project/)
 
 # Background
 I built this project to answer a personal question:
