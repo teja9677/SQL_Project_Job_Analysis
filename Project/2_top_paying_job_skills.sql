@@ -1,5 +1,5 @@
 /*
-what are the top paying job and their respective skills?
+what are the top paying job and their respective Skills?  
 */
 
 with top_pay as (
